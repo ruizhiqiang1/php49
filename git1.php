@@ -1,5 +1,5 @@
 <?php
 
-echo 'this is git1';
+echo 'this is git-1';
 
 ?>
